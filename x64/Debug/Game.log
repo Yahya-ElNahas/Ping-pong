@@ -1,0 +1,6 @@
+﻿  Game.cpp
+F:\Workspace\Game\renderer.cpp(32,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Workspace\Game\renderer.cpp(33,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Workspace\Game\renderer.cpp(34,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\Workspace\Game\renderer.cpp(35,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Game.vcxproj -> F:\Workspace\Game\x64\Debug\Game.exe
